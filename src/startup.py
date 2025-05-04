@@ -41,7 +41,6 @@ class Startup():
             JsonManager.save_json(settings, './config/config.json')
 
         # Check if a new version of MCPTool is available and display an update banner if necessary.
-        MCPToolUpdater.show_banner_update()
 
         # Check for proxy server updates.
         if JsonManager.get(['proxyConfig', 'updateProxy']):
