@@ -25,11 +25,11 @@
         "waterfallCommand": "java -Xms512M -Xmx512M -jar WaterFall.jar >nul 2>&1",
         "velocityPort": "25580",
         "velocityCommand": "java -Xms512M -Xmx512M -jar Velocity.jar >nul 2>&1",
-        "fakeProxyPort": "33330",
+        "fakeProxyPort": "25565",
         "fakeProxyUpdateDelay": "2",
         "fakeProxyCommandPrefix": ".",
-        "waterfallVersion": "https://api.papermc.io/v2/projects/waterfall/versions/1.20/builds/553/downloads/waterfall-1.20-553.jar",
-        "velocityVersion": "https://api.papermc.io/v2/projects/velocity/versions/3.2.0-SNAPSHOT/builds/294/downloads/velocity-3.2.0-SNAPSHOT-294.jar"
+        "waterfallVersion": "https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/598/downloads/waterfall-1.21-598.jar",
+        "velocityVersion": "https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/522/downloads/velocity-3.4.0-SNAPSHOT-522.jar"
     },
     "logs": true,
     "currentVersion": "4.1.2"
